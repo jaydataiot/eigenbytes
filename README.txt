@@ -14,4 +14,4 @@ SETUP
 3. Open index.html.
 
 The second page embeds:
-https://ai-insight-hub-jaydataiot.replit.app/
+https://ai-insight-hub-forked.replit.app/
